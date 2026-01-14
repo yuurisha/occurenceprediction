@@ -7,3 +7,7 @@ scikit-learn==1.8.0
 xgboost==2.0.3
 joblib==1.5.2
 python-multipart==0.0.20
+gunicorn==21.2.0
+firebase-admin==6.2.0
+
+
